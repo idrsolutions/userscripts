@@ -5,6 +5,8 @@
 // @version  3.1
 // @match    https://3.basecamp.com/*
 // @match    https://app.basecamp.com/*
+// @downloadURL https://github.com/idrsolutions/userscripts/raw/refs/heads/main/basecamp-text-shortcuts.user.js
+// @updateURL https://github.com/idrsolutions/userscripts/raw/refs/heads/main/basecamp-text-shortcuts.user.js
 // @run-at   document-idle
 // @grant    none
 // ==/UserScript==
