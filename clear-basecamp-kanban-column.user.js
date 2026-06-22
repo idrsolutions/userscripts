@@ -4,6 +4,8 @@
 // @version  2.1
 // @match    https://3.basecamp.com/*
 // @match    https://app.basecamp.com/*
+// @downloadURL https://github.com/idrsolutions/userscripts/raw/refs/heads/main/clear-basecamp-kanban-column.user.js
+// @updateURL https://github.com/idrsolutions/userscripts/raw/refs/heads/main/clear-basecamp-kanban-column.user.js
 // @run-at   document-idle
 // @grant    none
 // ==/UserScript==
