@@ -4,6 +4,8 @@
 // @version  1.1
 // @match    https://3.basecamp.com/*
 // @match    https://app.basecamp.com/*
+// @downloadURL https://github.com/idrsolutions/userscripts/raw/refs/heads/main/basecamp-document-color-background.user.js
+// @updateURL https://github.com/idrsolutions/userscripts/raw/refs/heads/main/basecamp-document-color-background.user.js
 // @run-at   document-start
 // @grant    none
 // ==/UserScript==
