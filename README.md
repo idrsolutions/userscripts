@@ -1,6 +1,6 @@
 # Userscripts
 
-Collection of custom userscripts that we use for hacking/improving websites at [IDRsolutions](https://www.idrsolutions.com/about-us)
+Collection of custom userscripts that we use for hacking/improving websites at [IDRsolutions](https://www.idrsolutions.com/about-us).
 
 ## Requirements
 
